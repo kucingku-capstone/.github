@@ -55,7 +55,7 @@ Here is our Kucingku APK : Comming soon
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
 | Mobile Development | [Kucingku Mobile App](https://github.com/kucingku-capstone/Mobile-Development.git) |
-|  Machine Learning  |  [Kucingku Machine Learning Model](https://github.com/kucingku-capstone/machine-learning.git)  |
+|  Machine Learning  |  [Kucingku Machine Learning Model](https://github.com/kucingku-capstone/machine-learning.git) / [Kucingku ML endpoint](https://github.com/kucingku-capstone/cat-pred-endpoint-v2.git)  |
 |   Cloud Computing  |   [Kucingku API](https://github.com/kucingku-capstone/kucingku-be.git)   |
 
 <p align="right">  CH2-PS233 Team </p>
